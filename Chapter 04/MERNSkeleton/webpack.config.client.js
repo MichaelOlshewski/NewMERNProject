@@ -36,7 +36,11 @@ const config = {
         alias: {
             'react-dom': '@hot-loader/react-dom'
         }
-    }
+    } 
+    // node: {
+    //     net: 'empty',
+    //     fs: 'empty'
+    // }
 }
 
 module.exports = config

@@ -25,6 +25,10 @@ const config = {
             }  
         ]
     }
+    // node: {
+    //     net: 'empty',
+    //     fs: 'empty'
+    // }
 };
 
 module.exports = config;
